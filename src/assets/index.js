@@ -30,6 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import atenix from "./atenix.png";
+import easyRecipe from "./easyRecipe.png";
+import priceapp from "./priceapp.png";
+import gemini from "./gemini.png";
+
 
 export {
   logo,
@@ -61,4 +65,7 @@ export {
   jobit,
   tripguide,
   atenix,
+  easyRecipe,
+  priceapp,
+  gemini,
 };
